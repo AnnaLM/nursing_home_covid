@@ -1,0 +1,633 @@
+﻿Facility,Location,Prov.,Number of dead,Number of beds (appx),%
+CHSLD Vigi Mont-Royal,Montreal,QC,102,273,37.36%
+Centre d'hébergement Sainte-Dorothée,Laval,QC,101,285,35.44%
+Centre d'hébergement Notre-Dame-de-la-Merci,Montreal,QC,100,398,25.13%
+CHSLD Laurendeau,Montreal,QC,93,300,31.00%
+Centre d'hébergement Champlain–Marie-Victorin,Montreal,QC,85,280,30.36%
+CHSLD Yvon-Brunet,Montreal,QC,77,185,41.62%
+CHSLD Vigi Dollard-des-Ormeaux,Dollard-des-Ormeaux,QC,74,160,46.25%
+CHSLD Saint-Jude,Laval,QC,73,204,35.78%
+Orchard Villa LTC,Pickering,ON,70,233,30.04%
+CHSLD Pierre-Joseph-Triest,Montreal,QC,69,227,30.40%
+Camilla Care Community,Mississauga,ON,68,237,28.69%
+CHSLD Grace Dart,Montreal,QC,67,94,71.28%
+CHSLD Angelica,Montreal,QC,67,350,19.14%
+Centre d'hébergement Jean-De La Lande,Montreal,QC,65,276,23.55%
+CHSLD Joseph-François-Perreault,Montreal,QC,64,192,33.33%
+Downsview Long Term Care Centre,North York,ON,64,252,25.40%
+Résidence Berthiaume-Du Tremblay,Montreal,QC,63,198,31.82%
+Carlingview Manor,Ottawa,ON,61,303,20.13%
+Villa Val des Arbres,Laval,QC,60,145,41.38%
+Centre d'hébergement de Lasalle,LaSalle,QC,59,202,29.21%
+L’Institut universitaire de gériatrie de Montréal,Montreal,QC,57,446,12.78%
+Centre d'hébergement René-Lévesque,Longeuil,QC,55,224,24.55%
+Centre d'hébergement de Lachine,Lachine,QC,54,,
+CHSLD Benjamin-Victor-Rousselot,Montreal,QC,54,157,34.39%
+CHSLD Jean-Hubert-Biermans,Montreal,QC,54,203,26.60%
+Centre d'hébergement Cloutier-du Rivage,Trois-Rivières,QC,53,179,29.61%
+Centre d'hébergement l'éden de Laval Inc.,Laval,QC,53,152,34.87%
+Altamont Care Community,Scarborough,ON,53,159,33.33%
+Northwood Manor,Halifax,NS,53,485,10.93%
+Résidence Herron,Dorval,QC,51,139,36.69%
+Forest Heights Revera,Waterloo,ON,51,240,21.25%
+CHSLD Jeanne-LeBer,Montreal,QC,50,351,14.25%
+Résidences Intermediere not listed here,Quebec,QC,49,,
+Madonna Care Community,Orleans,ON,49,160,30.63%
+Hopital de Lasalle,Montreal,QC,48,115,41.74%
+Extendicare Guildwood,Scarborough,ON,48,169,28.40%
+Hawthorne Place Care Centre,North York,ON,48,269,17.84%
+Isabel and Arthur Meighen Manor,Toronto,ON,48,168,28.57%
+CHSLD Auclair,Montreal,QC,45,160,28.13%
+CHSLD de Saint-Laurent,Montreal,QC,45,,
+Centre multiservices de santé et de services sociaux Laflèche,Shawinigan,QC,44,154,28.57%
+CHSLD la Pinière,Laval,QC,42,100,42.00%
+CHSLD de la Rive,Laval,QC,42,94,44.68%
+Centre d'hébergement des Seigneurs,Montreal,QC,42,168,25.00%
+Eatonville Care Centre,Etobicoke,ON,42,247,17.00%
+Midland Gardens Care Community,Scarborough,ON,42,299,14.05%
+Jardins du Haut Saint-Laurent,Saint-Augustin-de-Desmaures,QC,41,,
+Seven Oaks,Scarborough,ON,41,249,16.47%
+CHSLD Hope,Montreal,QC,40,160,25.00%
+CHSLD Paul-Lizotte,Montreal,QC,40,128,31.25%
+Jeffery Hale / Saint Brigid’s,Quebec City,QC,40,99,40.40%
+CHSLD Henriette-Céré,Saint-Hubert,QC,38,,
+Centre Hospitalier Geriatrique Maimonides,Cote St-Luc,QC,37,,
+Centre d'hébergement Hôpital général de Québec,Quebec City,QC,37,,
+Centre d'hébergement Nazaire-Piché,Montreal,QC,36,100,36.00%
+Centre le Cardinal,Montreal,QC,36,174,20.69%
+River Glen Haven Nursing Home,Sutton West,ON,36,120,30.00%
+Centre d'hébergement de Verdun,Montreal,QC,35,,
+Centre d'hebergement Louis-RIel,Montreal,QC,35,100,35.00%
+CHSLD de Saint-Lambert-sur-le-Golf,Saint-Lambert,QC,35,200,17.50%
+Humber Valley Terrace,Etobicoke,ON,35,158,22.15%
+CHSLD Éloria-Lepage,Montreal,QC,34,156,21.79%
+Weston Terrace Care Community,Toronto,ON,34,224,15.18%
+CHSLD Alfred-Desrochers,Montreal,QC,33,125,26.40%
+Résidence de la Salle,Laval,QC,33,82,40.24%
+Chartwell Ballycliffe Long-Term Care,Ajax,ON,33,100,33.00%
+Mon Sheong,Toronto,ON,33,105,31.43%
+CHSLD Robert-Cliche,Montreal,QC,32,100,32.00%
+Villa Colombo Home for the Aged,Toronto,ON,32,391,8.18%
+Résidence Angelica inc.,Montreal,QC,31,90,34.44%
+Ina Grafton Gage Villa Retirement,Scarborough,ON,31,128,24.22%
+Montfort Long-term Care Centre,Ottawa,ON,31,126,24.60%
+Woodbridge Vista Care Community,Woodbridge,ON,31,224,13.84%
+Centre d'hébergement Réal-Morel,Montreal,QC,30,144,20.83%
+Almonte Country Haven,Almonte,ON,30,82,36.59%
+Pinecrest Nursing Home,Bobcaygeon,ON,30,65,46.15%
+West Park Long Term Care Centre,Toronto,ON,30,200,15.00%
+Centre d'hébergement Champlain,Montreal,QC,29,,
+CHSLD de Saint-Michel,Montreal,QC,28,190,14.74%
+Centre d'hebergement Denis Benjamin Viger,Montreal,QC,28,,
+CHSLD Paul-Gouin,Montreal,QC,27,100,27.00%
+Anson Place Care Centre,Hagersville,ON,27,121,22.31%
+Langley Lodge,Langley,BC,26,121,21.49%
+Extendicare Laurier Manor,Gloucester,ON,25,242,10.33%
+Heron Terrace Long Term Care Community,Windsor,ON,25,140,17.86%
+Centre d'hébergement du Boisé Sainte-Thérèse,Sainte-Thérèse,QC,24,130,18.46%
+Centre d'hébergement Fernand-Larocque,Laval,QC,24,98,24.49%
+CHSLD Nicolet,Montreal,QC,24,,
+Résidence Domaine des Forges inc.,Laval,QC,24,,
+Résidence Ste-Rose,Laval,QC,24,170,14.12%
+Cooksville Care Centre,Mississauga,ON,24,,
+Centre d'hébergement Saint Andrew,Montreal,QC,23,70,32.86%
+CHSLD du Chevalier de Lévis,Longeuil,QC,23,,
+CHSLD Valeo,Saint-Lambert,QC,23,,
+Good Samaritan Southgate Care Centre,Edmonton,AB,23,,
+CHSLD Cartierville,Montreal,QC,22,,
+CHSLD Saint-Georges,Montreal,QC,22,,
+CHSLD des Moulins,Terrebonne,QC,22,102,21.57%
+Chartwell Westbury Long Term Care,Etobicoke,ON,22,187,11.76%
+The Village of Humber Heights - LTC,Etobicoke,ON,22,192,11.46%
+Centre d'hébergement de la Colline,Chicoutimi,QC,21,,
+CHSLD Le Royer,Montreal,QC,21,,
+CHSLD des Floralies de LaSalle,LaSalle,QC,21,78,26.92%
+CHSLD Bourget,Montreal,QC,21,,
+La Résidence Du Bonheur,Laval,QC,21,50,42.00%
+La Maison Dauphinelle,Saint-Basile-le-Grand,QC,21,35,60.00%
+Résidence Marie-Clothilde,Joliette,QC,21,,
+Centre d'hébergement Champlain-de-Gouin,Montreal,QC,21,93,22.58%
+Centre d'hébergement Ernest-Routhier,Montreal,QC,21,,
+Erin Mills Lodge,Mississauga,ON,21,86,24.42%
+Shelburne Residence Retirement and Nursing Home,Shelburne,ON,21,60,35.00%
+The Village of Erin Meadows,Mississauga,ON,21,180,11.67%
+McKenzie Towne Continuing Care Centre,Calgary,AB,21,150,14.00%
+Extendicare Hillcrest,Calgary,AB,21,,
+Manoir St-Patrice,Laval,QC,20,,
+CHLSD Bayview,Montreal,QC,20,,
+Jardins Intérieurs,Saint-Lambert,QC,20,,
+Royal Rose Place,Welland,ON,20,96,20.83%
+Villa Colombo Vaughan Di Poce Centre,Kleinburg,ON,20,160,12.50%
+Lynn Valley Care Centre,North Vancouver,BC,20,204,9.80%
+High River Long Term Care,High River,AB,20,50,40.00%
+CHSLD Vigi de Pierrefonds,Montreal,QC,19,,
+Manoir Harwood,Vaudreuil-Dorion,QC,19,51,37.25%
+Maison l’Étincelle,Montreal,QC,19,,
+Résidence Le Vivalis,Pointe Claire,QC,19,,
+Country Village Homes,Woodslee,ON,19,104,18.27%
+Rekai Centre (Sherbourne),Toronto,ON,19,126,15.08%
+Lundy Manor,Niagara Falls,ON,19,95,20.00%
+Holy Family Hospital long term care unit,Vancouver,BC,19,126,
+Centre d'hébergement J.-Henri-Charbonneau,Montreal,QC,18,,
+CHSLD Émile McDuff,Lanaudière,QC,18,102,17.65%
+Elm Grove Living Centre,Toronto,ON,18,126,14.29%
+Markhaven Home for Seniors,Markham,ON,18,96,18.75%
+Trinity Village LTC,Kitchener,ON,18,150,12.00%
+Wellesley Central Place,Toronto,ON,18,150,12.00%
+Intercare Brentwood,Calgary,AB,18,,
+Résidence Les Ficelles RI,Laval,QC,17,93,18.28%
+CHSLD Lionel-Émond,Gatineau,QC,17,,
+Résidence Floralies de LaSalle Inc,Montreal,QC,17,126,13.49%
+SEC Amblance IDS,Montreal,QC,17,,
+Centre d'hébergement de la Maison-Saint-Joseph,Montreal,QC,17,,
+ReachView Village,Uxbridge,ON,17,100,17.00%
+Centre d'hébergement de Dorval,Dorval,QC,16,,
+CHSLD Vigi Reine-Elizabeth,Montreal,QC,16,,
+CHSLD Légaré,Montreal,QC,16,,
+Centre d'hébergement Henri-Bradet,Montreal,QC,16,,
+Les Résidences Quatres Saisons - Résidence Bellerive,Salaberry-de-Valleyfield,QC,16,,
+Élisabeth-Bruyère Residence,Ottawa,ON,16,,
+Harold and Grace Baker centre,Toronto,ON,16,120,13.33%
+Kipling Acres,Toronto,ON,16,,
+The Village of Humber Heights - RH,Etobicoke,ON,16,250,6.40%
+Rosslyn Retirement Residence,Hamilton,ON,16,64,25.00%
+Centre d'hébergement Alphonse-Rondeau,Lanoraie,QC,15,,
+Centre d'hébergement de Repentigny,Repentigny,QC,15,,
+Centre d'hébergement Émilie-Gamelin,Montreal,QC,15,,
+Centre d'hébergement Paul-Triquet,Quebec City,QC,15,,
+CHSLD Saint-Joseph-de-la-Providence,Montreal,QC,15,,
+La Maison des Aîne(e)s,Salaberry-de-Valleyfield,QC,15,,
+Résidence Notre-Dame-de-la-Paix,Verdun,QC,15,110,13.64%
+CHSLD Champlain,Brossard,QC,15,,
+Les Jardins Gordon,Montreal,QC,15,,
+Château Beaurivage,Montreal North,QC,15,,
+Jardins d’Évangéline,Quebec City,QC,15,,
+CHSLD L.-B. Desjardins,Saint-Sauveur,QC,15,,
+Hellenic Home,Scarborough,ON,15,128,11.72%
+Mackenzie Place Long-term Care Home,Newmarket,ON,15,93,16.13%
+Résidence La Luciole RI,Laval,QC,14,149,9.40%
+Centre d'hébergement Paul-Émile-Léger,Montreal,QC,14,,
+Centre d'hébergement de l'Hôtel-Dieu-de-Saint-Hyacinthe,Saint-Hyacinthe,QC,14,,
+Manoir Joie de vivre RI,Sainte-Thérèse,QC,14,53,26.42%
+Place Lacordaire,Saint-Lambert,QC,14,,
+CHSLD Le Faubourg,Quebec City,QC,14,,
+Burton Manor,Brampton,ON,14,128,10.94%
+Extendicare Bayview,Toronto,ON,14,205,6.83%
+Extendicare Scarborough,Scarborough,ON,14,154,9.09%
+Hillsdale Terraces,Oshawa,ON,14,200,7.00%
+Owen Hill Care Community,Barrie,ON,14,57,24.56%
+Centre d'hébergement Saint-Antoine-de-Padoue,Saint-Lin,QC,13,,
+CHSLD Mgr Paquin,Saint-Tite,QC,13,,
+Centre d'hébergement St-Margaret (CHSLD),Montreal,QC,13,,
+Lev Tov Residence RI,Montreal,QC,13,87,14.94%
+Résidence Wilfrid-Grignon,Ste-Adele,QC,13,75,17.33%
+Héritage Plateau,Montreal,QC,13,,
+Résidence les Tours Gouin,Montreal,QC,13,,
+Hopital de Launaudière et CHSLD Parphilia-Ferland,Saint-Charles-Borromée,QC,13,,
+Villa Leonardo Gambin,Woodbridge,ON,13,168,7.74%
+Haro Park,Vancouver,BC,13,,
+Centre d'hébergement Lucien G.-Rolland,St-Jerôme,QC,12,,
+Les Pavillons LaSalle RI,Montreal,QC,12,183,6.56%
+Centre d'hébergement Armand-Lavergne,Montreal,QC,12,,
+Les résidences soleil Manoir St-Léonard,Montreal,QC,12,,
+Bradford Valley,Bradford,ON,12,246,4.88%
+Chartwell White Eagle,Toronto,ON,12,57,21.05%
+Grace Manor,Brampton,ON,12,120,10.00%
+Lakeshore Lodge Nursing Home,Toronto,ON,12,150,8.00%
+Perley and Rideau Veterans' Health Centre,Ottawa,ON,12,450,2.67%
+Villa Forum,Mississauga,ON,12,160,7.50%
+Royal Arch Masonic Home,Vancouver,BC,12,,
+La Maison Dauphinelle RI,Saint-Basile-le-Grand,QC,11,52,21.15%
+Centre d'hébergement de Saint-Jacques,Sainte-Marie-Salomé,QC,11,,
+Centre Multiservices de santé et de services sociaux St-Joseph,Trois-Rivières,QC,11,,
+CHSLD de la Petite-Patrie,Montreal,QC,11,96,11.46%
+CHSLD des floralies-de-lachine,Montreal,QC,11,,
+CHSLD Judith-Jasmin,Montreal,QC,11,75,14.67%
+CHSLD Providence Notre-Dame-de-Lourdes,Montreal,QC,11,,
+Résidence St-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,QC,11,33,33.33%
+Résidence Ville-Marie,Montreal,QC,11,,
+La Touellière et Les Cotonniers,Salaberry-de-Valleyfield,QC,11,,
+CHSLD Les Cèdres,Saint-Laurent,QC,11,,
+Chartwell Aurora Long-Term Care Home,Aurora,ON,11,235,4.68%
+Kristus Darzs Latvian Home,Woodbridge,ON,11,100,11.00%
+Pinecrest,Plantagenet,ON,11,,
+Pavillon Marie-Victorin,Longeuil,QC,10,37,27.03%
+CHSLD Kastner,Montreal,QC,10,,
+Jardin de la Patrie,Montreal,QC,10,,
+Manoir des Îles,Vaudreuil-Dorion,QC,10,,
+Résidence Élogia,Montreal,QC,10,,
+Résidence La Rosière inc.,Sainte-Julie,QC,10,,
+Les Jardins de Renoir/Le Renoir,Laval,QC,10,,
+CHSLD Saint-Jerôme,St-Jerôme,QC,10,,
+Vision Nursing Home,Sarnia,ON,10,146,6.85%
+Manoir Marochel,Ottawa,ON,10,,
+Ukranian Canadian Care Centre,Etobicoke,ON,10,152,6.58%
+Mountainview Residence,Georgetown,ON,10,,
+Garden Court Nursing Home,Etobicoke,ON,10,45,22.22%
+Manoir du Lac centre,McLennan,AB,10,,
+CHSLD Manoir de Verdun,Verdun,QC,9,,
+CHSLD Michèle-Bohec,Blainville,QC,9,105,8.57%
+CHSLD Sainte-Rose,Laval,QC,9,,
+Residence Ciel Bleu RI,Montreal,QC,9,104,8.65%
+Les Jardins Latourelle,Louiseville,QC,9,,
+Résidence Beauharnois,Beauharnois,QC,9,,
+Résidence Notre-Dame de la Victoire,Saint-Hubert,QC,9,,
+CHSLD Polonais Marie-Curie-Sklodowska,Montreal,QC,9,,
+Westmount One,Montreal,QC,9,,
+AR Goudie LTC,Kitchener,ON,9,80,11.25%
+Chartwell Gibson Long Term Care Residence,North York,ON,9,202,4.46%
+Residence St. Louis,Ottawa,ON,9,198,4.55%
+Cardinal Retirement,Hamilton,ON,9,,
+The Kensington Gardens,Toronto,ON,9,350,2.57%
+CHSLD de Saint-Jérôme,Saint-Jérôme,QC,8,,
+La Maison Mère des Soeurs de Sainte-Anne,Montreal,QC,8,,
+Les Résidences Soleil - Manoir Sherbrooke,Sherbrooke,QC,8,,
+Manoir Royal Saint-Eustache,Saint-Eustache,QC,8,,
+Résidence Floralies Lachine Inc.,Laval,QC,8,45,17.78%
+Résidence le Bellagio,Longeuil,QC,8,,
+Résidence Saint-Raphaël,Montreal,QC,8,,
+Résidence Cité Rive,Montreal,QC,8,,
+Résidence l'Alto,Montreal,QC,8,,
+St. Clair O’Connor Community Care,East York,ON,8,25,32.00%
+Stoneridge Manor,Carleton Place,ON,8,60,13.33%
+Peter D. Clark Centre,Ottawa,ON,8,211,3.79%
+New Horizons Tower,Toronto,ON,8,,
+Nisbet Lodge,Toronto,ON,8,103,7.77%
+Lions Gate Hospital (Unit 6 East),Vancouver,BC,8,,
+Misericordia Community Hospital,Edmonton,AB,8,,
+CHSLD et CRDP de l'Assomption,Assomption,QC,7,,
+CHSLD Saint-Jacques,Lanaudière,QC,7,,
+Chartwell Manoir et Cours de l'Atrium,Quebec City,QC,7,617,1.13%
+Lokia Trois-Rivières,Trois-Rivières,QC,7,,
+Manoir St-Joseph inc.,Montreal,QC,7,,
+Place Kensington,Westmount,QC,7,,
+Résidence - Les Jardins de Montarville Inc.,Boucherville,QC,7,,
+Résidence Le St-Michel,Montreal,QC,7,,
+Résidence Montarville,Boucherville,QC,7,,
+Les Terrasses Versailles Inc.,Montreal,QC,7,,
+Kensington Village,London,ON,7,126,5.56%
+North York General Hospital,Toronto,ON,7,,
+Highview Residences RH,Waterloo,ON,7,21,33.33%
+L'chaim Retirement Home,Toronto,ON,7,,
+Norfolk Manor,Guelph,ON,7,,
+Orchard Villa Retirement,Pickering,ON,7,,
+Clifton Manor,Calgary,AB,7,,
+Centre Multiservices de santé et de services sociaux,Trois-Rivières,QC,6,,
+CHSLD Drapeau-Deschambault,Sainte-Thérèse,QC,6,,
+CHSLD François-Séguenot,Montreal,QC,6,77,7.79%
+Manoir du havre,Maria,QC,6,,
+Manoir de Courville,Quebec City,QC,6,,
+Manoir Liverpool,Saint-Romuald,QC,6,,
+Résidence Ciel Bleu,Montreal,QC,6,,
+Résidence Eva,Lavaltrie,QC,6,153,3.92%
+Résidence Ferland,Danville,QC,6,27,22.22%
+Résidence Gingras inc.,Laval,QC,6,,
+Aubeurge aux Trois Pignons,Quebec City,QC,6,,
+Peel Manor Long Term Care Centre,Brampton,ON,6,177,3.39%
+Landmark Village,Sarnia,ON,6,,
+Participation House,Markham,ON,6,,
+Carewest Sarcee Continuing Care Facility,Calgary,AB,6,85,7.06%
+Millrise Seniors Village,Calgary,AB,6,,
+Centre d'hébergement de la Maree,Montreal,QC,5,,
+Centre d'hébergement Paul-Bruchési,Montreal,QC,5,,
+CHSLD des Seigneurs,Boucherville,QC,5,,
+Chateau Pierrefonds,Montreal,QC,5,,
+La Marguerite,Saint-Mathieu,QC,5,,
+Maison Niverville,Trois-Rivières,QC,5,,
+Manoir Belle Êpoque,Montreal,QC,5,,
+Manoir Fleury,Montreal,QC,5,,
+Pavillon St-Joseph,Saint-Joseph-de-Lepage,QC,5,,
+Résidence Bellerive,Montreal,QC,5,,
+Résidence Parc Jarry,Montreal,QC,5,,
+Résidence Sainte-Catherine,Montreal,QC,5,,
+Sélection Cherbourg,Brossard,QC,5,,
+Tours Angrignon,Montreal,QC,5,,
+Centre multi SSS D'Argenteuil,Lachute,QC,5,,
+Queens Estate Retirement Residence,Toronto,ON,5,,
+Seasons Retirement Communities,Welland,ON,5,160,3.13%
+Hillcrest Reactivation Centre,Toronto,ON,5,,
+Berkley Care Centre,North Vancouver,BC,5,,
+Agecare Sunrise Garden,Brooks,AB,5,,
+Antoniennes de Marie*,Chicoutimi,QC,4,48,8.33%
+Centre d'hébergement de Saint-Henri,Montreal,QC,4,,
+Centre d'hébergement du Manoir-de-l'age-d'or,Montreal,QC,4,,
+Centre d'hébergement Saint-Jean-Eudes,Quebec City,QC,4,,
+Centre de service pour les aînés de Saint-Lambert,Saint-Lambert,QC,4,,
+CHSLD Argyle - Saint-Lambert,Saint-Lambert,QC,4,120,3.33%
+CHSLD Saint-Joseph-de-la-Providence,Trois-Rivières,QC,4,,
+Hopital Grace Dart,Montreal,QC,4,,
+Hopital Laurentien,Sainte-Agathe-des-Monts,QC,4,,
+Manoir Beaconsfield,Beaconsfield,QC,4,,
+REPAIR-Champêtre,Lanaudière,QC,4,,
+Unité d’hébergement en santé mentale du Centre,Lanaudière,QC,4,,
+Centre d'hébergement de la Villa les Tilleuls,Laval,QC,4,,
+Chartwell Belvédères de Lachine,Montreal,QC,4,,
+CSH-HCN Lessee (Pointe aux Trembles),Saint-Sauveur,QC,4,,
+La Sélection West Island,Pointe Claire,QC,4,,
+Le Savignon,Montreal,QC,4,,
+Le Sélection West Island,Montreal,QC,4,,
+Les Résidencences Le jour et la nuit - Pavillon Sainte-Marie,Mascouche,QC,4,,
+Les Résidences Quatre Saisons - Résidence Académie,Salaberry-de-Valleyfield,QC,4,,
+Les Résidences Soleil Manoir Laval,Laval,QC,4,,
+Les Résidences Tournesol,Montreal,QC,4,,
+Lux Gouveneur,Montreal,QC,4,,
+Manoir Claudette Barré,Montreal,QC,4,,
+Manoir King David,Cote St-Luc,QC,4,,
+Manoir St-Rémi,Saint-Rémi,QC,4,,
+Pavillon Montfort,Montreal,QC,4,,
+Résidence Anjou,Montreal,QC,4,,
+Résidence au fil de l'eau,Montreal,QC,4,,
+Résidence l'image d'Outremont,Montreal,QC,4,,
+Résidence Marie-Rose Inc.,L'Épiphanie,QC,4,,
+Résidence Vent de l'Ouest,Montreal,QC,4,,
+Selecton Panorama,Laval,QC,4,,
+Résidence Maxwell,Baie-D'Urfé,QC,4,,
+Greenwood Court,Stratford,ON,4,45,8.89%
+Sheridan Villa,Mississauga,ON,4,142,2.82%
+Canterbury Place Retirement Residence,Toronto,ON,4,,
+Empress Kanata,Kanata,ON,4,,
+Heritage Green,Stoney Creek,ON,4,167,2.40%
+Kingsway Retirement Residence,Toronto,ON,4,,
+Promenade Retirement Residence,Orleans,ON,4,117,3.42%
+Victoria Place RH,Kitchener,ON,4,,
+Dufferin Care Centre,Coquitlam,BC,4,,
+Chinook Care Centre,Calgary,AB,4,,
+JB Wood Continuing Care Centre,High Prairie,AB,4,,
+Shepherd’s Care Kensington Village,Edmonton,AB,4,,
+CHSLD Idola-Saint-Jean,Laval,QC,3,,
+CHSLD St-VIncent-Marie,Montreal,QC,3,,
+Coopérative de solidarité La Brunante,Racine,QC,3,20,15.00%
+Centre hospitalier de Lanaudière,Lanaudière,QC,3,,
+Boisé Notre-Dame,Laval,QC,3,,
+Chartwell Greenfield Park,Longeuil,QC,3,,
+Domaine des Forges Phase I,Laval,QC,3,,
+Le Boulevard Résidence Urbaine Pour Aînés,Montreal,QC,3,,
+Les Résidences Soleil - Manoir Brossard,Brossard,QC,3,,
+Manoir Kirkland,Kirkland,QC,3,,
+Pavillon Rigaud Inc.,Trois-Rivières,QC,3,,
+Résidence au coeur de la Vie de St-Antoine,Saint-Jérôme,QC,3,,
+Résidence Belle Époque,La Prairie,QC,3,,
+Résidence Jazz Longeuil,Longeuil,QC,3,,
+Résidence Le Wellesley,Pointe Claire,QC,3,,
+Villa des Roseaux,Laval,QC,3,,
+Chartwell Manoir Saint-Jérome,Saint-Jérôme,QC,3,,
+CHSLD Docteur-Aimé-Leduc,Salaberry-de-Valleyfield,QC,3,,
+Manoir du Boisé Gagnon,Bois-des-Filion,QC,3,,
+Bethany Lodge,Markham,ON,3,128,2.34%
+Extendicare Brampton,Brampton,ON,3,159,1.89%
+Hastings Manor,Belleville,ON,3,253,1.19%
+Lanark Heights,Waterloo,ON,3,160,1.88%
+St. Patrick's Home,Ottawa,ON,3,288,1.04%
+Douglas Crossing Retirement Home,Uxbridge,ON,3,,
+Grand Wood Park RH,London,ON,3,,
+Amica Edgemont Village,North Vancouver,BC,3,,
+Ridge Meadows Hospital,Maple Ridge,BC,3,,
+Swedish Assisted Living,Vancouver,BC,3,,
+Worthington Longterm Care Facility,Abbotsford,BC,3,,
+Garden City Manor,St. Catharines,ON,3,200,1.50%
+Four LTC homes in Vancouver - July 6,Vancouver,BC,2,,
+La Loche LTC facility,La Loche,SK,2,,
+Centre d'hébergement Cooke,Trois-Rivières,QC,2,,
+Centre d'hébergement Waldorf,Cote St-Luc,QC,2,212,0.94%
+CHSLD de Blainville,Blainville,QC,2,,
+CHSLD Gertrude-Lafrance,Saint-Jean-sur-Richelieu,QC,2,,
+CHSLD Marie-Rollet,Montreal,QC,2,,
+CHSLD Notre-Dame-de-Lourdes,Quebec City,QC,2,,
+CHSLD Résidence Saint-Joseph de Maria,Maria,QC,2,,
+CSSS du Granit -Point de service de Lambton,Lambton,QC,2,,
+Hopital de soins psychiatriques de l'est de MTL,Montreal,QC,2,,
+Hopital général du lakeshore,Pointe Claire,QC,2,,
+Hopital Sainte-Anne,Sainte-Anne-de-Bellevue,QC,2,,
+L’Ermitage,Drummondville,QC,2,,
+Pavillon Philippe-Lapointe,Sainte-Agathe,QC,2,,
+Snowdon Residence,Montreal,QC,2,,
+UCDG Cloutier-du Rivage,Trois-Rivières,QC,2,,
+Chartwell Bois-de-Boulogne,Montreal,QC,2,,
+Le Domaine Saint-Rémi,Saint-Constant,QC,2,,
+Le Manoir Laverdure inc.,Chateauguay,QC,2,,
+Les Habitations Bordeleau,Saint-Charles-Borromée,QC,2,,
+Les Loggias,Laval,QC,2,,
+Les Marronniers,Laval,QC,2,,
+Les Résidences Desjardins Boisbriand,Boisbriand,QC,2,,
+Les Résidences du Manoir de la Falaise Inc.,Saint-Sauveur,QC,2,,
+Les Résidences Soleil - Manoir Saint-Laurent,Montreal,QC,2,,
+Les Résidences Soleil - Pointe aux trembles,Montreal,QC,2,,
+Manoir Ange-Marie,Saint-Jérôme,QC,2,,
+Manoir Les Retrouvailles,Saint-Jérôme,QC,2,,
+Manoir Louisiane,Montreal,QC,2,,
+Résidence Cavalier de Lasalle,Montreal,QC,2,,
+Résidence JA De Sève,Montreal,QC,2,,
+Résidence L'Ermitage,Drummondville,QC,2,,
+Résidence La Gappe,Outaouais,QC,2,,
+Résidence LaBelle Marguerite,Longeuil,QC,2,,
+Résidence LaSalle,Montreal,QC,2,,
+Résidence Le Faubourg,Repentigny,QC,2,,
+Résidence le Jardin de Saules Inc.,Laval,QC,2,,
+Résidence le Voilier Blanc,Saint-Paul-de-l'Île,QC,2,,
+Résidence Les Cascades Inc.,Montreal,QC,2,,
+Résidence Sheppard et James Victoria,Montreal,QC,2,,
+Verrières du Golf,Montreal,QC,2,,
+Villa Louiseville,Louiseville,QC,2,,
+Le 15 Lesage,Sainte-Thérèse,QC,2,,
+La Seigneurie de Rigaud,Rigaud,QC,2,,
+Manoir Louis Joliet,Joliette,QC,2,,
+Sélection Graham,Mont-Royal,QC,2,,
+Baycrest Apotex Centre - Jewish Home for the Aged,Toronto,ON,2,472,0.42%
+CAMH,Toronto,ON,2,,
+Dufferin Oaks,Shelburne,ON,2,160,1.25%
+Dundurn Place Care Centre,Hamilton,ON,2,201,1.00%
+Emmanuel House Hospice,Hamilton,ON,2,,
+Henley Place,London,ON,2,192,1.04%
+Horizon Place,London,ON,2,,
+Queensway Carleton Hospital,Ottawa,ON,2,,
+Valley View Residence,Toronto,ON,2,174,1.15%
+Amica Riverside,Windsor,ON,2,96,2.08%
+Maplewood Retirement Community,Ottawa,ON,2,,
+Regency Retirement Home,Mississauga,ON,2,,
+Richview Manor,Richmond Hill,ON,2,,
+Sunrise of Unionville,Markham,ON,2,,
+Weston Gardens Retirement Residence,Toronto,ON,2,,
+Harbourstone Enhanced Care,Sydney River,NS,2,,
+Manoir de la Vallée,Atholville,NB,2,39,5.13%
+Chartwell Willow Long-term Care,Maple Ridge,BC,2,,
+Residence at Clayton Heights,Surrey,BC,2,,
+South Granville Park Lodge,Vancouver,BC,2,,
+CHSLD et CLSC Frederick-George Heriot,Drummondville,QC,1,,
+Résidence Boréa,Blainville,QC,1,,
+Les Résidences du Manoir de la Vallée,Saint-Sauveur,QC,1,,
+Centre Multi. SSS Rivière-des-Prairies,Montreal,QC,1,,
+Centre d'hébergement Champlain-de-Gatineau,Gatineau,QC,1,,
+Centre d'hébergement de Monseigneur-Coderre,Longeuil,QC,1,,
+Centre d'hébergement de Plessisville,Pessisville,QC,1,,
+Centre d'hébergement de Saint-Eustache,Saint-Eustache,QC,1,195,0.51%
+Centre d'hébergement Hubert-Maisonneuve,Rosemère,QC,1,,
+Centre d'hébergement Mgr-Ross de Gaspé,Gaspé,QC,1,,
+Centre d'hébergement Yvonne-Sylvain,Quebec City,QC,1,,
+Centre d'hérgement St-Joseph,Drummondville,QC,1,,
+Château Westmount,Montreal,QC,1,,
+Tabor Home,Abbotsford,BC,1,,
+CHSLD de la Maison,Valleyfield,QC,1,,
+CHSLD de Saint-Raphael,Saint-Raphaël,QC,1,,
+CHSLD Healther I,Rawdon,QC,1,,
+CHSLD Roland-Leclerc,Trois-Rivières,QC,1,,
+CHSLD Vigi-Shermont,Sherbrooke,QC,1,,
+CHSLD Yvonne-Sylvain,Beauport,QC,1,116,0.86%
+Maison des Aînés de St-Timothée,Salaberry-de-Valleyfield,QC,1,,
+Providence St-Joseph,Montreal,QC,1,,
+Chateau Romanoffe,Salaberry-de-Valleyfield,QC,1,,
+Acceuil Notre-Dame Inc.,Magog,QC,1,63,1.59%
+Auberge Joie de vivre,Saguenay,QC,1,39,2.56%
+Beit Chai inc.,Montreal,QC,1,15,6.67%
+Bleu Horizon,Rouyn-Noranda,QC,1,,
+Boisé Notre-Dame Phase 5,Laval,QC,1,,
+Carrefour Rosemont,Montreal,QC,1,,
+Centre de Santé du Couvent (Joliette) SENC,Joliette,QC,1,,
+Chartwell Domaine Harmonie,Boucherville,QC,1,,
+Chartwell Domaine Notre-Dame,Gatineau,QC,1,,
+Chartwell Villa Rive-Sud,Longeuil,QC,1,,
+Chateau B'nai Brith Inc.,Cote St-Luc,QC,1,,
+Cité des Retraités NDF INC,Montreal,QC,1,,
+Côte Saint-Paul,Montreal,QC,1,,
+Demeure Saine-Hilaire,Mont-Saint-Hilaire,QC,1,,
+FGK Étoile Filante Inc.,Lebel-sur-Quévillon,QC,1,,
+Habitations Vive chez soi,Quebec City,QC,1,,
+Kay's Residence,Hinchinbrooke,QC,1,,
+L'Auberge de la Rivière Joliette Inc.,Saint-Charles-Borromée,QC,1,,
+La Résidence Fulford,Montreal,QC,1,,
+La Résidence Steger,Laval,QC,1,,
+La Sélection Laval,Laval,QC,1,,
+La Villa des Cygnes,Bécancour,QC,1,,
+Le 1313 Chomeday,Laval,QC,1,,
+Le Bellevue Résidence Bellevue Gouin,Montreal,QC,1,,
+Le Cambridge,Montreal,QC,1,,
+Le Castel,Saint-Lambert,QC,1,,
+Le Clair Matin,Longeuil,QC,1,,
+Le Havre de Trait-Carré,Quebec City,QC,1,,
+Le Havre du Faubourg Inc.,Nicolet,QC,1,,
+Le Mile End,Montreal,QC,1,,
+Le Symbiose,Montreal,QC,1,,
+Le Waldorf,Cote St-Luc,QC,1,,
+Les Habitations Bordeleau,Saint-Charles-Borromée,QC,1,,
+Les Habitats Lafayette,Longeuil,QC,1,,
+Les Jardins de la Cité,Drummondville,QC,1,,
+Les Jardins Lavoilette,Trois-Rivières,QC,1,,
+Les Résidences Alexandre inc.,Saint-Jérôme,QC,1,,
+Les Résidences du Manoir TR inc.,Trois-Rivières,QC,1,,
+Les Résidences France et Yvon Héroux,Louiseville,QC,1,,
+Les Résidences Soleil - Manoir Sainte Julie,Sainte-Julie,QC,1,,
+Maison de vie Sunrise DDO,Dollard-des-Ormeaux,QC,1,,
+Manoir de l'Acadie,Montreal,QC,1,,
+Manoir de l’arbre argenté,Lévis,QC,1,,
+Manoir Drummond,Drummondville,QC,1,,
+Manoir Du Soleil Levant,Montreal,QC,1,,
+Manoir Le Sapinois,Pincourt,QC,1,,
+Manoir Pierrefonds,Montreal,QC,1,,
+Manoir Westmount Inc.,Westmount,QC,1,,
+Place St-Moritz,Montreal,QC,1,,
+Providence Notre-Dame-de-Grâce,Montreal,QC,1,,
+Résidence Anjou sur le lac,Montreal,QC,1,,
+Résidence Au Coeur de l'amitié,Saint-Charles-Borromée,QC,1,,
+Résidence Blue et Or,Richelieu,QC,1,,
+Résidence des Jardins,Saint-André-Avellin,QC,1,,
+Résidence Desjardins,Senneterre,QC,1,,
+Résidence du Jardin Botanique,Montreal,QC,1,,
+Résidence du Verger,Saint-Jérôme,QC,1,,
+Résidence Élizabeth,Montreal,QC,1,,
+Résidence Jazz Ste Foy,Ste-Foy,QC,1,,
+Résidence l'Amitié Saraguay (1874) inc.,Montreal,QC,1,,
+Résidence l'Artisan,Saint-Eustache,QC,1,,
+Résidence L'Avantage,Brossard,QC,1,,
+Résidence l'Harmonie,Shawinigan,QC,1,,
+Résidence Le Chateau Royal,Dollard-des-Ormeaux,QC,1,,
+Résidence le Citadin SEC,Montreal,QC,1,,
+Résidence le Riverain 2016 inc.,Lotbinière,QC,1,,
+Résidence le St-Malo,Longeuil,QC,1,,
+Résidence Liliana,Montreal,QC,1,,
+Résidence Lionel-Bourdon,Montreal,QC,1,,
+Résidence Mémoire d'Antan,Joliette,QC,1,,
+Les Résidences du manoir Sainte-Adele Inc.,Sainte-Adèle,QC,1,,
+Résidence Mimosa,Laval,QC,1,,
+Résidence Nadia Bastien,Sainte-Marie-Salomé,QC,1,,
+Résidence Phimo,Montreal,QC,1,,
+Résidence Place Belvedère inc.,Montreal,QC,1,,
+Résidence Richelieu,Trois-Rivières,QC,1,,
+Résidence Rosalie-Cadron,Montreal,QC,1,,
+Résidence Saint-Eugene,Montreal,QC,1,,
+Résidence Saint-Michel,Dolbeau-Mistassini,QC,1,,
+Résidence Saint-Raphaël,Saguenay,QC,1,,
+Résidence Sainte-Anne,Rawdon,QC,1,,
+Résidence St-Denis d'Ahuntsic,Montreal,QC,1,,
+Résidence St-Georges,Shawinigan,QC,1,,
+Résidence Ste-Catherine,Saint-Hyacinthe,QC,1,,
+Résidence Vista,Montreal,QC,1,,
+Résidences Les Deux Aires,Montreal,QC,1,,
+Résidences St-Georges de St-Michel des Saints inc,Saint-Michel-des-Saints,QC,1,,
+Résidence Lemieux Inc.,Saint-Jérôme,QC,1,,
+Station Est,Montreal,QC,1,,
+Terraces Dominicaines 2016 Inc.,Trois-Rivières,QC,1,,
+Villa Berthier,Lanoraie,QC,1,,
+Villa des chutes,Rawdon,QC,1,,
+Villa Mon Calme,Lanoraie,QC,1,,
+Villa Ste-Rose,Laval,QC,1,,
+Villlagia de l'Ile Paton,Laval,QC,1,,
+Bordeaux Jail,Montreal,QC,1,,
+Domaine des Trembles,Gatineau,QC,1,,
+Federal Training Centre,Laval,QC,1,,
+Shepherd's Care Greenfield campus,Edmonton,QB,1,,
+Chartwell Pickering City,Pickering,ON,1,,
+Craiglee Nursing Home,Scarborough,ON,1,,
+Cummer Lodge,North York,ON,1,,
+Eagle Terrace Long-Term Care Home,Newmarket,ON,1,70,1.43%
+Earls Court Village,London,ON,1,128,0.78%
+Faith Manor,Brampton,ON,1,,
+Lakeridge Health Ajax-Pickering,Ajax,ON,1,,
+Billings Court Manor,Burlington,ON,1,160,
+Mackenzie Health Reactivation Care Centre,Toronto,ON,1,129,0.78%
+Maple Grove Care Community,Mississauga,ON,1,,
+McCall Centre for Continuing Care,Toronto,ON,1,21,4.76%
+Meadow Park Nursing Home,London,ON,1,126,0.79%
+New Leaf Pines Residence,Newmarket,ON,1,,
+Chateau sur le lac,Montreal,ON,1,,
+Providence Healthcare,Scarborough,ON,1,288,0.35%
+Salvation Army / Toronto Grace,Toronto,ON,1,,
+Sisters of St. Joseph,London,ON,1,,
+St. Joseph’s at Fleming,Peterborough,ON,1,200,0.50%
+St. Joseph’s Villa,Sudbury,ON,1,128,0.78%
+Sun Parlor Home for Senior Citizens,Leamington,ON,1,206,0.49%
+Tendercare Living Centre,Scarborough,ON,1,254,0.39%
+The Norfolk Hospital Nursing Home,Simcoe,ON,1,80,1.25%
+True Davidson Acres,Toronto,ON,1,187,
+University of Ottawa Heart Institute,Ottawa,ON,1,,
+Wesburn Manor,Etobicoke,ON,1,192,
+West Park Health Centre,St. Catharines,ON,1,101,0.99%
+Westside,Etobicoke,ON,1,242,0.41%
+Bradgate Arms RH,Toronto,ON,1,246,0.41%
+Bramalea Retirement Residence,Brampton,ON,1,,
+Carolina Retirement Residence,Perth,ON,1,,
+Greenway,Brampton,ON,1,,
+King Gardens Retirement Home,Mississauga,ON,1,,
+Queen Victoria Place,Petrolia,ON,1,,
+Pickering City Centre Retirement Home,Pickering,ON,1,,
+Scarborough Retirement Residence,Scarborough,ON,1,,
+The Village at University Gates,Waterloo,ON,1,,
+The Westhill retirement residence,Waterloo,ON,1,,
+The Westwood 2,Ottawa,ON,1,,
+Unnamed London retirement facility - June 12,London,ON,1,,
+VIVA Thornhill Woods Retirement Community,Thornhill,ON,1,,
+Wynfield Retirement Retirement Residence,Oshawa,ON,1,,
+Dixon Hall School House,Toronto,ON,1,,
+Reactivation Care Centre,Toronto,ON,1,,
+Reena Lebovic Community Residence,Thornhill,ON,1,,
+Seaton House,Toronto,ON,1,,
+Admiral Long Term Care Centre,Dartmouth,NS,1,,
+Poseidon Care Centre,Winnipeg,MB,1,,
+Eden Care Centre,Chilliwack,BC,1,,
+New Vista Care Home,Burnaby,BC,1,,
+Shaughnessy Care Centre,Port Coquitlam,BC,1,,
+Valhaven Home,Abbotsford,BC,1,,
+Windermere Care Centre,Vancouver,BC,1,,
+Mission Institution,Mission,BC,1,,
+Father Lacombe Nursing Home,Calgary,AB,1,,
+South Country Village,Medicine Hat,AB,1,,
+Bethany Care Centre,Calgary,AB,1,,
+Chartwell Eau Claire Retirement Residences,Calgary,AB,1,,
